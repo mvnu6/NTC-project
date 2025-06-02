@@ -1,0 +1,6 @@
+[submodule "NTC_Remake"]
+	path = NTC_Remake
+	url = https://github.com/MARQUESDINISJoaoGabriel/NTC_Remake.git
+[submodule "NTC-admin"]
+	path = NTC-admin
+	url = https://github.com/RayaneChCh-dev/NTC-admin.git
